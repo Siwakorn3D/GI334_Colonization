@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 5a80233b76cb62d46b4131a594055532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5898917243122571046
+    second: Native_Taino_0
+  - first:
+      213: -511009174130143061
+    second: Native_Taino_1
+  - first:
+      213: -5330186150830242632
+    second: Native_Taino_2
+  - first:
+      213: 2580589320661662845
+    second: Native_Taino_3
+  - first:
+      213: -5760211083705750019
+    second: Native_Taino_4
+  - first:
+      213: -7736729442838640276
+    second: Native_Taino_5
+  - first:
+      213: 3111568775370135072
+    second: Native_Taino_6
+  - first:
+      213: 3151368698382950321
+    second: Native_Taino_7
+  - first:
+      213: -4589150511645989200
+    second: Native_Taino_8
+  - first:
+      213: 7020828261931195435
+    second: Native_Taino_9
+  - first:
+      213: 3731899205010380834
+    second: Native_Taino_10
+  - first:
+      213: 2882390132193233750
+    second: Native_Taino_11
+  - first:
+      213: -7872400240944114965
+    second: Native_Taino_12
+  - first:
+      213: -2046214519756731554
+    second: Native_Taino_13
+  - first:
+      213: -6821977581723307274
+    second: Native_Taino_14
+  - first:
+      213: 2421841579203969965
+    second: Native_Taino_15
+  - first:
+      213: -2244754997087072180
+    second: Native_Taino_16
+  - first:
+      213: -4525981220190977159
+    second: Native_Taino_17
+  - first:
+      213: 5684864568708996191
+    second: Native_Taino_18
+  - first:
+      213: 6359670780495105124
+    second: Native_Taino_19
+  - first:
+      213: 7763529905928976159
+    second: Native_Taino_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Native_Taino_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 349
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8a04c6506d22ea0800000000000000
+      internalID: -5898917243122571046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 448
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d1031dd788e8f0800000000000000
+      internalID: -511009174130143061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 461
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b48e05bfef5706b0800000000000000
+      internalID: -5330186150830242632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7439805810d320800000000000000
+      internalID: 2580589320661662845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 447
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd637cc98e9f00b0800000000000000
+      internalID: -5760211083705750019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c690c4c009d91a490800000000000000
+      internalID: -7736729442838640276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026522eb0538e2b20800000000000000
+      internalID: 3111568775370135072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf966f6229ebbb20800000000000000
+      internalID: 3151368698382950321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e98c8cef0050c0800000000000000
+      internalID: -4589150511645989200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9e653b1efe6160800000000000000
+      internalID: 7020828261931195435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d434fd8e5ac330800000000000000
+      internalID: 3731899205010380834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b087dbd8e400820800000000000000
+      internalID: 2882390132193233750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be293dcc0bd9fb290800000000000000
+      internalID: -7872400240944114965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 31
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b47af4cb26a93e0800000000000000
+      internalID: -2046214519756731554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f234b7a8877351a0800000000000000
+      internalID: -6821977581723307274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da349b6b51c1c9120800000000000000
+      internalID: 2421841579203969965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 28
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4097de293709d0e0800000000000000
+      internalID: -2244754997087072180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738d665f0c7031c0800000000000000
+      internalID: -4525981220190977159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c9a1e9432b4ee40800000000000000
+      internalID: 5684864568708996191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c87df31e6124850800000000000000
+      internalID: 6359670780495105124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Taino_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b40601599dbb60800000000000000
+      internalID: 7763529905928976159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Native_Taino_0: -5898917243122571046
+      Native_Taino_1: -511009174130143061
+      Native_Taino_10: 3731899205010380834
+      Native_Taino_11: 2882390132193233750
+      Native_Taino_12: -7872400240944114965
+      Native_Taino_13: -2046214519756731554
+      Native_Taino_14: -6821977581723307274
+      Native_Taino_15: 2421841579203969965
+      Native_Taino_16: -2244754997087072180
+      Native_Taino_17: -4525981220190977159
+      Native_Taino_18: 5684864568708996191
+      Native_Taino_19: 6359670780495105124
+      Native_Taino_2: -5330186150830242632
+      Native_Taino_20: 7763529905928976159
+      Native_Taino_3: 2580589320661662845
+      Native_Taino_4: -5760211083705750019
+      Native_Taino_5: -7736729442838640276
+      Native_Taino_6: 3111568775370135072
+      Native_Taino_7: 3151368698382950321
+      Native_Taino_8: -4589150511645989200
+      Native_Taino_9: 7020828261931195435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

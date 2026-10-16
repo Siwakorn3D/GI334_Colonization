@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a9f54fae5bacf5044b75fd93f9aa0081
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5838083233511286557
+    second: Native_Mexica_0
+  - first:
+      213: -4604046292788649775
+    second: Native_Mexica_1
+  - first:
+      213: 1577484981906666790
+    second: Native_Mexica_2
+  - first:
+      213: -1410118875956912613
+    second: Native_Mexica_3
+  - first:
+      213: 4837676157666084097
+    second: Native_Mexica_4
+  - first:
+      213: 647788339492568424
+    second: Native_Mexica_5
+  - first:
+      213: -2803763129506749382
+    second: Native_Mexica_6
+  - first:
+      213: -2034401085018550364
+    second: Native_Mexica_7
+  - first:
+      213: 3761495085192293696
+    second: Native_Mexica_8
+  - first:
+      213: 6984267537783175900
+    second: Native_Mexica_9
+  - first:
+      213: 2174415918916101840
+    second: Native_Mexica_10
+  - first:
+      213: 7014743729190520508
+    second: Native_Mexica_11
+  - first:
+      213: -921881158922474418
+    second: Native_Mexica_12
+  - first:
+      213: 4718528027979703355
+    second: Native_Mexica_13
+  - first:
+      213: -4423165432452082907
+    second: Native_Mexica_14
+  - first:
+      213: -9178989731076868993
+    second: Native_Mexica_15
+  - first:
+      213: -6877871237632672023
+    second: Native_Mexica_16
+  - first:
+      213: 7156302984782147500
+    second: Native_Mexica_17
+  - first:
+      213: 4003522042388030164
+    second: Native_Mexica_18
+  - first:
+      213: 3759743336697501290
+    second: Native_Mexica_19
+  - first:
+      213: -2937075021273946414
+    second: Native_Mexica_20
+  - first:
+      213: -7318937694762777111
+    second: Native_Mexica_21
+  - first:
+      213: -7411126203495698545
+    second: Native_Mexica_22
+  - first:
+      213: -6311645666345100125
+    second: Native_Mexica_23
+  - first:
+      213: 1762942244502778430
+    second: Native_Mexica_24
+  - first:
+      213: 9111176270673421471
+    second: Native_Mexica_25
+  - first:
+      213: -2627790579316402161
+    second: Native_Mexica_26
+  - first:
+      213: -6344137408173954981
+    second: Native_Mexica_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Native_Mexica_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 468
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e855690b36fafea0800000000000000
+      internalID: -5838083233511286557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 485
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e0ec3a442b10c0800000000000000
+      internalID: -4604046292788649775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 485
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6257f01bb3a54e510800000000000000
+      internalID: 1577484981906666790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 481
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ed38b7a504e6ce0800000000000000
+      internalID: -1410118875956912613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105401495d0e22340800000000000000
+      internalID: 4837676157666084097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 490
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d381900186df800800000000000000
+      internalID: 647788339492568424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 480
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a967e9480719d0800000000000000
+      internalID: -2803763129506749382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 484
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afccccedfa54c3e0800000000000000
+      internalID: -2034401085018550364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 483
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da349c9d3833430800000000000000
+      internalID: 3761495085192293696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdabbd5425a1de060800000000000000
+      internalID: 6984267537783175900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 467
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e2f8f1c31d2e10800000000000000
+      internalID: 2174415918916101840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 467
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6ccc88140695160800000000000000
+      internalID: 7014743729190520508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 465
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cec4568f1d433f0800000000000000
+      internalID: -921881158922474418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 465
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34647add349b7140800000000000000
+      internalID: 4718528027979703355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 469
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52318ef5972cd92c0800000000000000
+      internalID: -4423165432452082907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 117
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747432d87dad9080800000000000000
+      internalID: -9178989731076868993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee3706cc84ec80a0800000000000000
+      internalID: -6877871237632672023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 49
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe10126ab405360800000000000000
+      internalID: 7156302984782147500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d22cf2061e5f8730800000000000000
+      internalID: 4003522042388030164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661f7e05aa4d2430800000000000000
+      internalID: 3759743336697501290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d62b4654d96d37d0800000000000000
+      internalID: -2937075021273946414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 49
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c27aa1f8ed6a90800000000000000
+      internalID: -7318937694762777111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fac07dbf3662990800000000000000
+      internalID: -7411126203495698545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acdd5df4b78868a0800000000000000
+      internalID: -6311645666345100125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e323e1381aa377810800000000000000
+      internalID: 1762942244502778430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94257b8b86617e70800000000000000
+      internalID: 9111176270673421471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f085ab70466388bd0800000000000000
+      internalID: -2627790579316402161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mexica_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b582683d3a815f7a0800000000000000
+      internalID: -6344137408173954981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Native_Mexica_0: -5838083233511286557
+      Native_Mexica_1: -4604046292788649775
+      Native_Mexica_10: 2174415918916101840
+      Native_Mexica_11: 7014743729190520508
+      Native_Mexica_12: -921881158922474418
+      Native_Mexica_13: 4718528027979703355
+      Native_Mexica_14: -4423165432452082907
+      Native_Mexica_15: -9178989731076868993
+      Native_Mexica_16: -6877871237632672023
+      Native_Mexica_17: 7156302984782147500
+      Native_Mexica_18: 4003522042388030164
+      Native_Mexica_19: 3759743336697501290
+      Native_Mexica_2: 1577484981906666790
+      Native_Mexica_20: -2937075021273946414
+      Native_Mexica_21: -7318937694762777111
+      Native_Mexica_22: -7411126203495698545
+      Native_Mexica_23: -6311645666345100125
+      Native_Mexica_24: 1762942244502778430
+      Native_Mexica_25: 9111176270673421471
+      Native_Mexica_26: -2627790579316402161
+      Native_Mexica_27: -6344137408173954981
+      Native_Mexica_3: -1410118875956912613
+      Native_Mexica_4: 4837676157666084097
+      Native_Mexica_5: 647788339492568424
+      Native_Mexica_6: -2803763129506749382
+      Native_Mexica_7: -2034401085018550364
+      Native_Mexica_8: 3761495085192293696
+      Native_Mexica_9: 6984267537783175900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 168cc4a7b1e0dec4c94111e6a83dd2aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3719456438651980226
+    second: Native_Mapuche_0
+  - first:
+      213: -7927449342075548117
+    second: Native_Mapuche_1
+  - first:
+      213: -843081458288072003
+    second: Native_Mapuche_2
+  - first:
+      213: 8795248901994476558
+    second: Native_Mapuche_3
+  - first:
+      213: 1724956150795882670
+    second: Native_Mapuche_4
+  - first:
+      213: 2752576180875142260
+    second: Native_Mapuche_5
+  - first:
+      213: 1395547288740504281
+    second: Native_Mapuche_6
+  - first:
+      213: -835444303695471370
+    second: Native_Mapuche_7
+  - first:
+      213: 8104852946108489975
+    second: Native_Mapuche_8
+  - first:
+      213: 5909465989501744098
+    second: Native_Mapuche_9
+  - first:
+      213: -5245838109800177900
+    second: Native_Mapuche_10
+  - first:
+      213: 7525284617793525387
+    second: Native_Mapuche_11
+  - first:
+      213: 663256587515834136
+    second: Native_Mapuche_12
+  - first:
+      213: 5987161605449199510
+    second: Native_Mapuche_13
+  - first:
+      213: 2884102308482342236
+    second: Native_Mapuche_14
+  - first:
+      213: -969866431319409753
+    second: Native_Mapuche_15
+  - first:
+      213: 6686911454318741382
+    second: Native_Mapuche_16
+  - first:
+      213: 7534438432694630284
+    second: Native_Mapuche_17
+  - first:
+      213: 257129933495915670
+    second: Native_Mapuche_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Native_Mapuche_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 358
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36fb985316d16cc0800000000000000
+      internalID: -3719456438651980226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 472
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ecea623da0cf190800000000000000
+      internalID: -7927449342075548117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 476
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba650a61e5cc44f0800000000000000
+      internalID: -843081458288072003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 482
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047682f6400f0a70800000000000000
+      internalID: 8795248901994476558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 468
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0505dda7640f710800000000000000
+      internalID: 1724956150795882670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 484
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a346e37d133620800000000000000
+      internalID: 2752576180875142260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 479
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d223ac7ddafd5310800000000000000
+      internalID: 1395547288740504281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 475
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9b9805d7e764f0800000000000000
+      internalID: -835444303695471370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0239920d83a7070800000000000000
+      internalID: 8104852946108489975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 453
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f08cf104a20250800000000000000
+      internalID: 5909465989501744098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f5724680a0337b0800000000000000
+      internalID: -5245838109800177900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b865b4d3d7e2f6860800000000000000
+      internalID: 7525284617793525387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 56
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa1dd2a5c543900800000000000000
+      internalID: 663256587515834136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f28a142cba61350800000000000000
+      internalID: 5987161605449199510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d59f8d4c3660820800000000000000
+      internalID: 2884102308482342236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 38
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab71a98e975a82f0800000000000000
+      internalID: -969866431319409753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 18
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c827f98eaccc50800000000000000
+      internalID: 6686911454318741382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 26
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8770dad5d3bf8860800000000000000
+      internalID: 7534438432694630284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Native_Mapuche_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694d42bef42819300800000000000000
+      internalID: 257129933495915670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Native_Mapuche_0: -3719456438651980226
+      Native_Mapuche_1: -7927449342075548117
+      Native_Mapuche_10: -5245838109800177900
+      Native_Mapuche_11: 7525284617793525387
+      Native_Mapuche_12: 663256587515834136
+      Native_Mapuche_13: 5987161605449199510
+      Native_Mapuche_14: 2884102308482342236
+      Native_Mapuche_15: -969866431319409753
+      Native_Mapuche_16: 6686911454318741382
+      Native_Mapuche_17: 7534438432694630284
+      Native_Mapuche_18: 257129933495915670
+      Native_Mapuche_2: -843081458288072003
+      Native_Mapuche_3: 8795248901994476558
+      Native_Mapuche_4: 1724956150795882670
+      Native_Mapuche_5: 2752576180875142260
+      Native_Mapuche_6: 1395547288740504281
+      Native_Mapuche_7: -835444303695471370
+      Native_Mapuche_8: 8104852946108489975
+      Native_Mapuche_9: 5909465989501744098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
